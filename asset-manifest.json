@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/eat-n-split/static/css/main.f38a3276.css",
-    "main.js": "/eat-n-split/static/js/main.6d411407.js",
-    "index.html": "/eat-n-split/index.html",
-    "main.f38a3276.css.map": "/eat-n-split/static/css/main.f38a3276.css.map",
-    "main.6d411407.js.map": "/eat-n-split/static/js/main.6d411407.js.map"
+    "main.css": "/eat-n-split-app/static/css/main.f38a3276.css",
+    "main.js": "/eat-n-split-app/static/js/main.6d411407.js",
+    "index.html": "/eat-n-split-app/index.html",
+    "main.f38a3276.css.map": "/eat-n-split-app/static/css/main.f38a3276.css.map",
+    "main.6d411407.js.map": "/eat-n-split-app/static/js/main.6d411407.js.map"
   },
   "entrypoints": [
     "static/css/main.f38a3276.css",
